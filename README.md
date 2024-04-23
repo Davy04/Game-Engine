@@ -41,10 +41,10 @@ Contribuições são bem-vindas! Se você encontrar um problema ou tiver alguma 
 - Davy Woolley - [@davy](https://github.com/Davy04)
 - Guilherme Leal - [@guilherme](https://github.com/GuilhermeLeal)
 - Vinicius Dantas - [@vinicius](https://github.com/vinidantasz)
-- Arthur Felipe - [@arthur](https://github.com/arthur)
-- Leandro Manoel - [@leandro](https://github.com/leandro)
-- Diogo Bandeira - [@diogo](https://github.com/diogo)
-- Rafael Lins - [@rafael](https://github.com/rafael)
+- Arthur Felipe - [@arthur](https://github.com/)
+- Leandro Manoel - [@leandro](https://github.com/)
+- Diogo Bandeira - [@diogo](https://github.com/)
+- Rafael Lins - [@rafael](https://github.com/)
 
 ## Licença
 
