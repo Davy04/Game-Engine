@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Davy\\Documents\\GitHub\\Game-Eng-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{757A011F-DA79-44BF-AD07-C4B092920F98}|Game-Eng-1\\Game-Eng-1.csproj|c:\\users\\davy\\documents\\github\\game-eng-1\\game-eng-1\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757A011F-DA79-44BF-AD07-C4B092920F98}|Game-Eng-1\\Game-Eng-1.csproj|solutionrelative:game-eng-1\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757A011F-DA79-44BF-AD07-C4B092920F98}|Game-Eng-1\\Game-Eng-1.csproj|c:\\users\\davy\\documents\\github\\game-eng-1\\game-eng-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757A011F-DA79-44BF-AD07-C4B092920F98}|Game-Eng-1\\Game-Eng-1.csproj|solutionrelative:game-eng-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\Davy\\Documents\\GitHub\\Game-Eng-1\\Game-Eng-1\\Game1.cs",
+              "RelativeDocumentMoniker": "Game-Eng-1\\Game1.cs",
+              "ToolTip": "C:\\Users\\Davy\\Documents\\GitHub\\Game-Eng-1\\Game-Eng-1\\Game1.cs",
+              "RelativeToolTip": "Game-Eng-1\\Game1.cs",
+              "ViewState": "AQIAAHABAAAAAAAAAAAuwJABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T03:07:10.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Davy\\Documents\\GitHub\\Game-Eng-1\\Game-Eng-1\\Program.cs",
+              "RelativeDocumentMoniker": "Game-Eng-1\\Program.cs",
+              "ToolTip": "C:\\Users\\Davy\\Documents\\GitHub\\Game-Eng-1\\Game-Eng-1\\Program.cs",
+              "RelativeToolTip": "Game-Eng-1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T00:15:13.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
